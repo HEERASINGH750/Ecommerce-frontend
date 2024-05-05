@@ -1,6 +1,6 @@
-# Ecommerce application
-## here user can add items to cart , add review and see other products 
-## admin can post new products to web page .
+# E-commerce application
+-Here user can add items to cart , add review and see other products 
+-Admin can post new products to web page .
 
 
 ## To run this repo 
